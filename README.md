@@ -3,6 +3,8 @@ Monokai-Black
 
 Monokai theme with black background for Sublime Text 2 and 3
 
+![Screenshot](https://raw.github.com/matkl/Monokai-Black/screenshots/screenshot.png)
+
 ## Installation
 
 ### Using Package Control
